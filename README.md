@@ -10,7 +10,7 @@ I'm a Frontend developer with my ♥
 
 <br />
 
-<img align="right" alt="GIF" src="https://avatars.githubusercontent.com/u/17993682?s=400&u=eea2d87104dbda62d753c337aad3553cb62c2a66&v=4" width="240px" />
+<img align="right" alt="GIF" src="https://imagenpng.com/wp-content/uploads/2016/09/Pikachu-png-0.png" width="240px" />
 
 <br />
 
