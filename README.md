@@ -1,5 +1,5 @@
 ## Hello World 👋 It's Milumon!
-I'm a Frontend developer with my ♥  
+I'm a Full Stack Jr developer with my ♥  
 <br/>
  
 <a href="https://www.linkedin.com/in/miluska-romero/">
