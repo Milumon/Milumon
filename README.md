@@ -16,7 +16,7 @@ I'm a Full Stack Jr developer with my ♥
 
 ## What i'm up to
  
-- 🌱 Estoy aprendiendo [NextJS](https://nextjs.org/). 
+- 🌱 [NextJS](https://nextjs.org/). 
 - 🌱 & [Serverless Framework](https://www.serverless.com/). 
 
 <br />
