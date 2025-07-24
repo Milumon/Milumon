@@ -1,5 +1,5 @@
 ## Hello World 👋 It's Milumon!
-I'm a Full Stack Jr developer with my ♥  
+I'm a Full Stack Developer with my ♥  
 <br/>
  
 <a href="https://www.linkedin.com/in/miluska-romero/">
@@ -15,7 +15,7 @@ I'm a Full Stack Jr developer with my ♥
 <br />
 
 ## What i'm up to
- 
+- 🌱 [NestJS](https://nestjs.com/). 
 - 🌱 [NextJS](https://nextjs.org/). 
 - 🌱 & [Serverless Framework](https://www.serverless.com/). 
 
